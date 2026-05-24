@@ -1,0 +1,7 @@
+name=WhatsApp
+developer=Meta
+version=2.23.1
+package=com.whatsapp
+icon=https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN=w480-h960-rw
+apk=https://yorserver.com/apks/whatsapp.apk
+size=45 MB
