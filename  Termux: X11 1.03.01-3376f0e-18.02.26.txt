@@ -1,0 +1,21 @@
+name=	 Termux: X11
+developer=Termux Devs
+version= 1.03.01-3376f0e-18.02.26
+package=com.termux.x11
+icon=https://img.utdstc.com/icon/30c/fbb/30cfbbbe47c06d3c2d1b5d39323bc6109211ca9fefc69cf2579de9f4a44d20c7:200
+apk=https://dw.uptodown.net/dwn/Nph83Kd0P2uodnn4mS90KwuMh1X8C4SsRoMXJ7Z_-lbIfac595-cnkirAbyY4sMrpqRzdd-LiyWRpB-PXxyddROHzf_EUL68R3TZAC6L06ChVZ5ihhBQ_c1etbxCsy2Q/-WAtTcJfbeEWRFzifVjnS1tWnNJFa8kkesbGiUvs1ATEARDFpqtFvh4eaelyy3YR3KChSWLYD4nwrqNhShGkHuQrJEqJL4CFEhtLpWxdIFHoHhjtUk-1KaZHrb1dkDmY/TWgSARBzTAg50f5CHPgNDBoFlOMsUGxzKPx18ztR_H3EOmdXiRAV1QAaXFWR3VwNFViJrIPdHZlvZAnjVNp6oj45rgiZ423Ey_USGc7xqGg=/termuxx11-1-03-01-3376f0e-18-02-26.apk
+size=13.66 MB
+description=Termux: X11 هو التطبيق المصاحب لـ Termux، مصمم للسماح لك بتشغيل تطبيقات واجهة المستخدم الرسومية الخاصة بنظام Linux مباشرة على هاتفك الذكي. لن تحتاج إلى تجذير جهازك—هذه الأداة توفر لك بيئة سطح مكتب كاملة دون الاعتماد على VNC.
+
+لماذا استخدامTermux: X11 على الأندرويد
+مع خادم X الأصلي هذا للأندرويد، ستحصل على رفيق مثالي لتطبيق Termux مباشرة بعد التثبيت. على عكس عميل VNC، فإنه يوفر زمن انتقال أقل ورسومات أكثر سلاسة. هذا يعني أيضًا أن بطارية جهازك ستدوم لفترة أطول بشكل ملحوظ.
+التثبيتTermux: X11
+لفتح قفل خصائصTermux: X11، ما عليك سوى تثبيت APK على جهازك الأندرويد. بعد ذلك، قم بتشغيل أوامر Termux التالية: pkg update ، و pkg install x11-repo ، و pkg install termux-x11-nightly. فقط تأكد من إطلاقTermux: X11 قبل البدء في أي واجهة رسومية.
+
+كيفية إصلاح "termux-x11 غير متصل"
+إذا رأيت خطأ "termux-x11 غير متصل" عند استخدامTermux: X11 ، قد تكون هناك عمليات خلفية متضاربة. في إعدادات الأندرويد، اضغط على "إيقاف إجباري" على كلا التطبيقين وقم بمسح ذاكرة التخزين المؤقت لحل المشكلة.
+
+قم بتنزيل Termux: X11 APK للأندرويد واستمتع ببديل قوي لـ VNC. تتيح لك هذا الإضافة لـ Termux تشغيل تطبيقات سطح المكتب الخاصة بنظام Linux على الأندرويد بأداء مدهش. يمكنك أيضًا تجربة أدوات متقدمة مثل proot-distro وتسريع GPU لفتح الإمكانات الكاملة للتطبيق.
+
+المتطلبات (احدث اصدار)
+يتطلب أندرويد 8.0 أو أحدث
