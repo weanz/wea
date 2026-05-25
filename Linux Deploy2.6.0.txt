@@ -1,0 +1,8 @@
+name=Linux  Deploy
+developer=meefik
+version=2.6.0
+package=com.whatsapp
+icon=https://img.utdstc.com/icon/543/160/543160cba6c562b3eff0288dfb76b10a91aa5c1b9cef7a87892147a2a3eb0fc6:200
+apk=https://dw.uptodown.net/dwn/0b9i3-a2EAeq3s5clT2JL8HLounUKHI3uy_hJMvT9qI2dd3-3mY5vWKbV9yYkTiiZvycW815o7cQTqDC09Ka003QGzHi22uCxx_owow99w-FUQmqJOg3K3TEgslB_B58/NVzd37sN_x-ciwpVqhuh6y2k1RK9zZkilBW40I3dGxXigtyb4tSv9zLXC-SnpDSCaR5Qnz4MmWMo9Z4W1oL8CAjJnaMTkFlJF7V9qyP3sp7DDa63xMBcbs49vKrfd1_l/WTxveZwcdV5baLyk9qyOib0_sUpMHhRnvZYe8A_a-LCmMIYWM1JyqBhTTklyqI-USGg78fHfgJ1HjOIzASsyOw==/linux-deploy-2-6-0.apk
+size=17.1 MB
+description= استخدم نظام التشغيل الأكثر استحسانًا على جهاز الأندرويد
