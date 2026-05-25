@@ -1,0 +1,11 @@
+name=	 Free Fire Advance
+developer= GARENA INTERNATIONAL IPRIVATE
+version=68.53.0
+package= com.dts.freefireadv
+icon=https://img.utdstc.com/icon/ded/fa6/dedfa6dc16636ec064f45b475e2d76f2f6830319e43658d9c231c380c341980a:200
+apk=https://dw.uptodown.net/dwn/0b9i3-a2EAeq3s5clT2JL8HLounUKHI3uy_hJMvT9qJINEwbNE1Chm1V19wvPlxIMrUlofOCi9lM91MBDuWxURCzPt0cY5t7IEKZuEpB-xSy6Zq7vJbXBotVpQuk_qx9/odCM_dPX-9duS2ngybuq0rLQoOixCVTavXYSTg5FaEisnKgZM99DKLiEwKAGaE2HEL1RGTq3WbsgY0_Vkb8JBoUr_MYLNA-tAuYB_pHuKclPYjk9oT9XH1IkTS88FHPB/RL4pl75VSNU-5xp6cAVEfsSLXf9SFW7224aOlKDQ1DJIKZzBaOsMhDX06SEPk1qdAQmalh1HPwKv_6KDN9_Gn4O6BFc8i4YOb9cineqSZrY=/free-fire-advance-68-53-0.apk
+size=0.8GB
+description= هي حيث يتنافس ما يصل إلى 50 لاعبًا ضد بعضهم البعض في معارك جماعية مثيرة حيث يمكن تتويج لاعب واحد فقط بلقب الناجي. سيمنحك هذا الإصدار المتقدم نظرة سريعة على جميع الميزات الحديثة التي سيتم إضافتها إلى النسخة القياسية للعبة . هنا يمكنك العثور على جميع اللبوسات الجديدة، وجميع الأسلحة في مرحلة الاختبار، وأي تغييرات طفيفة تأتي تدريجيا إلى النسخة النهائية من اللعبة.
+
+فقط للاعبين الذين لديهم رمز التنشيط
+من المهم جدًا ملاحظة أنك ستحتاج إلى رمز تنشيط للعبFree Fire Advance . للحصول على هذا الرمز، سيتعين عليك الذهاب إلى الموقع الرسمي والتسجيل باستخدام عنوان بريد إلكتروني ورقم هاتف حقيقيين. بمجرد إكمال هذه الخطوة، سيكون عليك انتظار رمز التحقق. يعد رمز التنشيط هذا فريدًا وشخصيًا، لذا من المهم عدم مشاركته مع أي شخص. من المهم أيضًا ملاحظة أن الوصول إلى خادم Advance محدود للغاية، لذلك اعتمادًا على يوم الشهر الذي تحاول الدخول إليه، قد لا تتلقى الرمز لعدة أيام أو أسابيع.
