@@ -1,0 +1,8 @@
+name=دددد
+developer=Hu
+version=1.1
+package=com.c.c
+icon=https://img.utdstc.com/icon/543/160/543160cba6c562b3eff0288dfb76b10a91aa5c1b9cef7a87892147a2a3eb0fc6:200
+apk=https://img.utdstc.com/icon/543/160/543160cba6c562b3eff0288dfb76b10a91aa5c1b9cef7a87892147a2a3eb0fc6:200
+size=Mm
+description=Mm
