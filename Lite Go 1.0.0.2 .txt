@@ -1,0 +1,8 @@
+name=Lite Go 
+developer=Meta 
+version=1.0.0.2 
+package=Go.Lite 
+icon=https://i.ibb.co/GNYqG5R/6.png
+apk=https://weanz.github.io/wea/LIte V.B_1.0.0.2.apk
+size=2.8 MB 
+description=تطبيق فيسبوك لايت معدل يعمل بالوضع الاساسي في الشبكات المدعومة 
