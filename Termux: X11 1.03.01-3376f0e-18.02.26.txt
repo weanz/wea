@@ -1,6 +1,6 @@
 name=	 Termux: X11
 developer=Termux Devs
-version= 1.03.01-3376f0e-18.02.26
+version= f0e-18.02.26
 package=com.termux.x11
 icon=https://img.utdstc.com/icon/30c/fbb/30cfbbbe47c06d3c2d1b5d39323bc6109211ca9fefc69cf2579de9f4a44d20c7:200
 apk=https://dw.uptodown.net/dwn/Nph83Kd0P2uodnn4mS90KwuMh1X8C4SsRoMXJ7Z_-lbIfac595-cnkirAbyY4sMrpqRzdd-LiyWRpB-PXxyddROHzf_EUL68R3TZAC6L06ChVZ5ihhBQ_c1etbxCsy2Q/-WAtTcJfbeEWRFzifVjnS1tWnNJFa8kkesbGiUvs1ATEARDFpqtFvh4eaelyy3YR3KChSWLYD4nwrqNhShGkHuQrJEqJL4CFEhtLpWxdIFHoHhjtUk-1KaZHrb1dkDmY/TWgSARBzTAg50f5CHPgNDBoFlOMsUGxzKPx18ztR_H3EOmdXiRAV1QAaXFWR3VwNFViJrIPdHZlvZAnjVNp6oj45rgiZ423Ey_USGc7xqGg=/termuxx11-1-03-01-3376f0e-18-02-26.apk
