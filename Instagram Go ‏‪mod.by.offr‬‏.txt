@@ -1,0 +1,8 @@
+name=Instagram Go
+developer=Ping Go
+version= ‏‪mod.by.offr‬‏
+package=com.instagram.litf
+icon=https://i.ibb.co/nMS0xCtj/d8502cc565c8baff42226ee6261e94d7.jpg
+apk=https://files.catbox.moe/19dq6v.apk
+size=2.65M
+description=هو تطبيق معدل من انستغرام يعمل بالوضع الاساسي في الشبكات المدعومة
